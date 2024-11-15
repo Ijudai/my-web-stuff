@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.controler-nav{
+    margin:10px;
+    margin-left: 40px;
+}
+.nav-bar > li{
+    
+    display: inline;
+    font-size: 25px;
+    margin-right: 45px;
+    
+}
+.nav-bar >li>a{
+    color: goldenrod;
+    text-decoration: none;
+}
+.nav-bar > li > a:hover{
+    color: brown;
+    text-decoration: underline;
+}
